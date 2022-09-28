@@ -102,10 +102,11 @@ $lightGreen: #b9e7e7;
       .posts {
         display: flex;
         flex-direction: column;
-        gap: 15rem;
+        gap: 10rem;
 
         .post {
           display: flex;
+          height: 26em;
           gap: 10%;
 
           &:nth-child(2n + 1) {
@@ -138,7 +139,7 @@ $lightGreen: #b9e7e7;
             flex: 3;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            gap: 6%;
 
             a {
               text-decoration: none;
