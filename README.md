@@ -8,7 +8,7 @@
 - React
 - Sass
 
-## Live Demo (Not Available)
+## Live Demo (If Available)
 > To try the web App enter here [LIVE DEMO](https://incandescent-alfajores-f9beed.netlify.app/)
 
 ## Getting Started
